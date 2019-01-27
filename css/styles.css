@@ -1,0 +1,78 @@
+body {
+  background-color: #e9eec9;
+  text-align: center;
+}
+
+/*
+font-family: 'Unica One', cursive;
+font-family: 'Poiret One', cursive;
+font-family: 'Inconsolata', monospace;
+*/
+.titulo {
+  display: inline-block;
+  position: relative;
+  font-family: 'Unica One', cursive;
+  font-size: 3em;
+  color: #283148;
+  margin: 0;
+  top: 0;
+}
+
+.titulos {
+  display: inline-block;
+}
+
+.subtitulo {
+  display: inline-block;
+  margin: 0 auto 0 auto;
+  font-family: 'Poiret One', cursive;
+  font-size: 2em;
+  color: #283148;
+  top: 0;
+  position: relative;
+}
+
+.ingeniero {
+  position: relative;
+  display: inline-block;
+  transform: scale(1);
+  right: 5%;
+  top: -20px;
+}
+
+.industrial-robot {
+  display: inline-block;
+  transform: scale(1);
+  position: relative;
+  left: 5%;
+  top: -20px;
+}
+
+.mechanical {
+  transform: scale(1);
+}
+
+.div-profile {
+  margin-top: 0;
+}
+
+.middle-container {
+  font-family: 'Poiret One', cursive;
+  color: #283148;
+  font-size: 1.5em;
+}
+
+.skills {
+  font-family: 'Poiret One', cursive;
+  color: #283148;
+}
+
+.angela {
+  position: relative;
+  top: 20px;
+}
+
+.parrafo {
+  padding-right: 25%;
+  padding-left: 25%;
+}
